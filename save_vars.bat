@@ -20,7 +20,7 @@ setx COLOR_BG_BLACK [40m >nul
 setx COLOR_BG_BLUE [44m >nul
 setx COLOR_BG_CYAN [46m >nul
 setx COLOR_BG_GREEN [42m >nul
-setx DISPLAY_BG_PURPLE [45m >nul
+setx COLOR_BG_PURPLE [45m >nul
 setx COLOR_BG_RED [41m >nul
 setx COLOR_BG_WHITE [47m >nul
 setx COLOR_BG_YELLOW [43m >nul
