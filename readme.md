@@ -1,4 +1,4 @@
-# BatchColors
+# Batch Colors
 Batch scripts to set colors variables for windows prompt.
 
 ## Descripion
